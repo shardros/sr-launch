@@ -1,29 +1,34 @@
 # sr-launch
 
-1  : Arunav Bagla
-
-2  : Aly Champion
-
-3  : Arnav Koshy
-
-4  : Amy Shaw
-
-5  : Loreta Paliakaite
-
-6  : Edwin Shepherd
-
-7  : Sanjeet Chatterjee
-
-8  : Annie Noonari
-
-9  : Florence Miller
-
-10  : Oscar Berry
-
-11  : Sarah Berry
-
-12  : Toby Newey
-
-13  : Pralish Satyal
-
-14  : James Granville
+----------------PEOPLE GOING----------------
++--------------------+--------------------------+
+|       Names        |          Emails          |
++====================+==========================+
+| Toby Newey         | TN130031@hillsroad.ac.uk |
++--------------------+--------------------------+
+| Edwin Shepherd     | es128207@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| Pralish Satyal     | PS128179@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| Ellison Linsley    | el129876@hillsroad.ac.uk |
++--------------------+--------------------------+
+| Ellie Gaggs        | ellie.gaggs@gmail.com    |
++--------------------+--------------------------+
+| Annie Noonari      | an130043@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| Sarah Berry        | SB128488@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| Oscar Berry        | origamidos@gmail.com     |
++--------------------+--------------------------+
+| Loreta Paliakaite  | LP130085@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| Sanjeet Chatterjee | sc129263@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| Arnav Koshy        | AK129817@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| Florence Miller    | FM127909@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| James Granville    | jg128508@hrsfc.ac.uk     |
++--------------------+--------------------------+
+| Arunav Bagla       | AB129068@hillsroad.ac.uk |
++--------------------+--------------------------+
