@@ -1,4 +1,8 @@
 import random
+import texttable as tt
+tab = tt.Texttable()
+headings = ['Names','Emails']
+tab.header(headings)
 
 names = ["Tom Humbles",
 "Amy Shaw",
@@ -51,4 +55,7 @@ random.seed()
 
 for i in range(0,14):
     person_going = people.pop(random.randint(0, len(people)-1))
-    print(i + 1, ' :', person_going[0])
+    tab.add_row(person_going)
+
+s = tab.draw()
+print (s)
